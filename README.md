@@ -10,7 +10,9 @@
 
 ###
 
-<p align="center">Soy programador de software inteligente con una ingienieria en Desarrollo de software</p>
+<p align="center">I am a smart software programmer with a degree in software development engineering.</p>
+<br>
+<h5 align="center">You can find my projects on this profile.</h5>
 
 ###
 
